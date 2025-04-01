@@ -60,7 +60,5 @@ function setCookie(name, value, days) {
       const timeString = `${hours}:${minutes}:${seconds}`;
       document.getElementById('clock').textContent = timeString;
   }
-
   setInterval(updateClock, 1000);
-
   updateClock();
