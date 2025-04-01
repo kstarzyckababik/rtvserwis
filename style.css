@@ -63,7 +63,7 @@ body {
 
 .hours {
     background-color: #f4f4f4;
-    font-size: 12px;
+    font-size: 16px;
     padding: 10px;
     border-radius: 8px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
@@ -89,7 +89,7 @@ body {
 }
 
 .hours p {
-    font-size: 16px;
+    font-size: 14px;
     color: #7f8c8d;
     margin: 5px 0;
 }
